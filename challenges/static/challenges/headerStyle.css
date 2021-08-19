@@ -1,0 +1,15 @@
+header {
+  font-size: 25px;
+  padding: 10px;
+  font-weight: bold;
+  background-color: rgba(131, 130, 130, 0.3);
+  margin: -8px -8px 10px -8px;
+}
+a {
+  color: rgb(43, 43, 43);
+  text-decoration: none;
+}
+a:hover {
+  cursor: pointer;
+  color: rgb(116, 168, 112);
+}

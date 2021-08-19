@@ -1,0 +1,15 @@
+{% extends 'base.html' %} 
+{% load static %}
+{%block css_file%}
+  <link rel="stylesheet" href="{% static "challenges/headerStyle.css" %}">
+{% endblock %}
+
+{%block content%}
+
+<header>
+  <nav>
+    <a href="{% url "index" %}">All Challenges</a>
+  </nav>
+</header>
+
+{%endblock%}
