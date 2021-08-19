@@ -1,5 +1,6 @@
 # monthly-challenges
 
 
-![1](https://user-images.githubusercontent.com/83283144/124484584-373f6a80-ddc9-11eb-9793-ea17beb58b69.JPG)
-![2](https://user-images.githubusercontent.com/83283144/124484590-39092e00-ddc9-11eb-8059-0f43f6ae0938.JPG)
+![op1](https://user-images.githubusercontent.com/83283144/130034495-6e183ea6-7e26-467f-9330-0072478d455c.JPG)
+![op2](https://user-images.githubusercontent.com/83283144/130034496-7f22d1db-05aa-43ec-af60-afdf2a5888c5.JPG)
+
